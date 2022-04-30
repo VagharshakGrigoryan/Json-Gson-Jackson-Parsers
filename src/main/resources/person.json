@@ -1,0 +1,12 @@
+{
+  "firstName": "Vagharshak",
+  "lastName": "Grigoryan",
+  "course": {
+    "author": "Vagharshak Grigoryan",
+    "title": "Java",
+    "description": "for example"
+  },
+  "personalContacts": [
+    "https://www.facebook.com/vagharshak.grigoryan.9/"
+  ]
+}
